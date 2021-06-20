@@ -1,0 +1,15 @@
+# Ignore everything
+*
+!*/
+
+# Expect sources and libs
+!*.java
+!*.jar
+!MANIFEST.MF
+
+# Except Git
+!.gitignore
+!*.md
+
+# Expect Makefile
+!Makefile
